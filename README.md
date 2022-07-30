@@ -1,10 +1,9 @@
 # Study_Materials
-Related to Leetcode Problem Solving Questions codes
-Java Practice codes
-Preparation resources
+Related to Problem Solving Questions Java Practice Preparation resources
 
-** Java Practice Collections Anuj_Bhaiyaa
-1) https://www.youtube.com/watch?v=rzA7UJ-hQn4&t=1082s
+** Java Practice
+1)Anuj_Bhaiyaa Collections 
+ https://www.youtube.com/watch?v=rzA7UJ-hQn4&t=1082s
 
 ** Problem Solving
 1) Leetcode 
