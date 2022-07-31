@@ -6,7 +6,7 @@ Youtube
 1) Anuj_Bhaiyaa Collections: https://www.youtube.com/watch?v=rzA7UJ-hQn4&t=1082s
 
 ** Problem Solving
-1) Leetcode: https://leetcode.com/user4035Jx/
+1) Leetcode: https://leetcode.com/user4035Jx/    
  1)Two_Sum: https://leetcode.com/problems/two-sum/
  Blog: https://www.code-recipe.com/post/two-sum
  Youtube: Striver- https://www.youtube.com/watch?v=dRUpbt8vHpo&t=421s
