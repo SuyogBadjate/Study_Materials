@@ -1,4 +1,4 @@
-package javapractice;
+package Java_Practice_Questions;
 
 public class Ex2 {
 
