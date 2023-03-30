@@ -4,8 +4,12 @@ Related to Problem Solving Questions Java Practice Preparation resources <br />
 ** Java Practice <br /> 
 Youtube <br /> 
 1) Anuj_Bhaiyaa Collections: https://www.youtube.com/watch?v=rzA7UJ-hQn4&t=1082s <br /> 
-2) Fraz DSA: https://www.youtube.com/watch?v=lw8wdN64emw&list=PLjkkQ3iH4jy82KRn9jXeFyWzvX7sqYrjE <br />
-3) Youtube DSA Java: https://www.youtube.com/watch?v=OWCao3Ul6n4&t=8752s  <bre />
+2) DSA Anuj_Bhaiyaa in one: https://www.youtube.com/watch?v=N89PN_uyelU&list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p <br /> 
+3) Fraz DSA: https://www.youtube.com/watch?v=lw8wdN64emw&list=PLjkkQ3iH4jy82KRn9jXeFyWzvX7sqYrjE <br /> 
+4) Telusko Java Tutorials: <br />
+5) Youtube DSA Java: <br />
+   1) Great Learning: https://www.youtube.com/watch?v=OWCao3Ul6n4&t=8752s  <br />
+   2) Durgesh Java tutorials: <br /> https://www.youtube.com/watchv=Yy1yx9uTHIs&list=PL0zysOflRCekkNEe4FDmdUN3FATodg3Yf&ab_channel=LearnCodeWithDurgesh <br />
 
 ** Problem Solving <br /> 
 1)   Leetcode: https://leetcode.com/user4035Jx/ <br /> 
@@ -22,7 +26,11 @@ Youtube <br />
 3)   Java Practice Questions <br />
 4)   Leetcode Practice <br />
 
-     
+** Courses <br />
+1) Lex courses <br />
+   1) Efficent Coding <br />
+   2) Java Prog Fundamentals <br />
+   3) Java Tools <br />
      
      
      
